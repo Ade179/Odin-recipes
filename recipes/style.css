@@ -1,0 +1,16 @@
+/* Style.css */
+h1{
+    color: white;
+    text-align: center;
+    font-family: Helvetica "Times new roman" sans-serif;
+    font-size:40px;
+    background-color: orangered;
+}
+h3{
+    background-color: orangered;
+    color:white
+}
+body{
+    color:white;
+    background-color: black;
+}

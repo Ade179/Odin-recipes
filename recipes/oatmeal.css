@@ -1,0 +1,19 @@
+/* Style.css */
+h3,
+h1{
+    color: white;
+    text-align: center;
+    background-color: gold;
+}
+body{
+    background-color: black;
+}
+img{
+    height; auto;
+    width: 500px;
+}
+ul,
+ol,
+p{
+    color: white;   
+}
